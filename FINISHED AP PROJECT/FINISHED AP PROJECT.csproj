@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>FINISHED_AP_PROJECT</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Andrew Lin\Downloads\FINISHED AP PROJECT.cs" Link="FINISHED AP PROJECT.cs" />
+  </ItemGroup>
+
+</Project>
